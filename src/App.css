@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.My-header {
+  background-color: rgb(113, 170, 255);
+  font-family: Krub;
+}
+
+.My-footer {
+  background-color: rgb(151, 255, 159);
+  font-family: Krub;
+}
+
+.My-content {
+  background-color: rgba(255, 91, 186, 0.329);
+  font-family: Krub;
+  padding: 2em;
+  border-radius: 15px;
+  border: 2px rgb(179, 179, 255);
+  margin-bottom: 1em;
+  text-align: center;
+}
